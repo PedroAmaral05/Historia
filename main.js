@@ -1,15 +1,20 @@
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Artur Kazuki estava voltando da escola para casa, quando um grupo de adolescentes rebeldes (que maltratavam animais em situação de rua😱 😱 😱, e o Artur odeia isso) o abordaram e anunciaram um assalto com o objetivo de roubar seu troféu de MVP da Liga de Vôlei. O que Kazuki deve fazer? ",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "ELe deve lançar um saque viagem neles!!",
+                afirmacao: "Artur mira o saque entre os ladrões, ricocheteando a bola entre eles até um monte de areia próximo, levatnado a areia e cegando seus oponentes. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Entregar o seu troféu :(",
+                afirmacao: "Os rebeldes DO MAL pegam seu troféu e exigem mais pertences."
             }
+
+
+
+
+
         ]
     },
     {
