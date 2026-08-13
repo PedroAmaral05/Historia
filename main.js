@@ -18,28 +18,29 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Irritados, eles afirmam que não querem apenas o trofeu, querem todas as habilidades de volei dele, eles utilizam um aspirador para roubar a energia de volei de Kazuki",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Tentar quebrar o aspirador",
+                afirmacao: "Kazuki acerta uma machete que isola o aspirador"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Desviar",
+                afirmacao: "Kazuki perde 5% das Habilidades de volei dele, ficando mais fraco"
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Observando a ineficácia do aspirador, os ladrões decidem jogar o jogo de Kazuki, e os 3 lançam um saque flutuando unidos para derrotar Kazuki",
+",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Jogar um Saque viagem para combater o saque flutuante unido poderoso deles",
+                afirmacao: "A bola de Kazuki gira contra a deles, durante um tempo. Porém, o saque de Kazuki se mostra mais poderoso, e atravessa a bola dos inimigos, voando em direção deles"
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Bloquear o Saque com as mãos",
+                afirmacao: "Após muito esforço, Kazuki redireciona a bola para eles, somado com a sua força, a bola atinge todos eles."
             }
         ]
     },
