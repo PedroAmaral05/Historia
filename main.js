@@ -1,10 +1,16 @@
+const caixaPrincipal = document.querySelector(".caixa-principal")
+const caixaPerguntas = document.querySelector(".caixa-perguntas")
+const caixaAlternativas = document.querySelector(".caixa-alternativas")
+const caixaResultado = document.querySelector(".caixa-resultado")
+const textoResultado = document.querySelector(".texto-resultado")
+
 const perguntas = [
     {
         enunciado: "Artur Kazuki estava voltando da escola para casa, quando um grupo de adolescentes rebeldes (que maltratavam animais em situação de rua😱 😱 😱, e o Artur odeia isso) o abordaram e anunciaram um assalto com o objetivo de roubar seu troféu de MVP da Liga de Vôlei. O que Kazuki deve fazer? ",
         alternativas: [
             {
                 texto: "ELe deve lançar um saque viagem neles!!",
-                afirmacao: "Artur mira o saque entre os ladrões, ricocheteando a bola entre eles até um monte de areia próximo, levatnado a areia e cegando seus oponentes. "
+                afirmacao: "Artur mira o saque entre os ladrões, ricocheteando a bola entre eles até um monte de areia próximo, levantando a areia e cegando seus oponentes. "
             },
             {
                 texto: "Entregar o seu troféu :(",
@@ -18,20 +24,20 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Irritados, eles afirmam que não querem apenas o trofeu, querem todas as habilidades de volei dele, eles utilizam um aspirador para roubar a energia de volei de Kazuki",
+        enunciado: "Irritados, eles afirmam que não querem apenas o troféu, mas todas as suas habilidades de vôlei. Eles utilizam um aspirador para tentar roubar a energia de volei de Kazuki. O que Artur deve fazer?",
         alternativas: [
             {
-                texto: "Tentar quebrar o aspirador",
-                afirmacao: "Kazuki acerta uma machete que isola o aspirador"
+                texto: "Quebrar o aspirador",
+                afirmacao: "Kazuki acerta uma machete que isola o aspirador!!"
             },
             {
                 texto: "Desviar",
-                afirmacao: "Kazuki perde 5% das Habilidades de volei dele, ficando mais fraco"
+                afirmacao: "Kazuki perde 5% de suas habilidades de vôlei, ficando mais fraco"
             }
         ]
     },
     {
-        enunciado: "Observando a ineficácia do aspirador, os ladrões decidem jogar o jogo de Kazuki, e os 3 lançam um saque flutuando unidos para derrotar Kazuki",
+        enunciado: "Observando a ineficácia do aspirador, os ladrões decidem jogar o jogo de Kazuki. Os 3 lançam um saque flutuante, unidos para derrotar Kazuki. Como ele deve reagir?",
 ",
         alternativas: [
             {
@@ -45,15 +51,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "A poeira levanta... os inimigos estão todos no chão, sem conseguir se mover, Kazuki se agarra ao seu troféu quase perdido. Os inimigos pedem misericórdia, e pedem para Kazuki ser o mestre deles.",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Aceitar",
+                afirmacao: "Após 20 anos de treinando seus pupilos, Kazuki não possuia muito tempo para si, e não obtém sucesso no mundial, porém, todos seus pupilos(que não maltratam mais animais de rua), obtiveram o primeiro lugar no mundial, os 3 sendo considerados os melhores de suas equipes independente da posição. Eles indicam Kazuki mundialmente, que funda a "Kazukinhos Do Volêi", a escola mais renomada escola de volêi, procurada mundialmente. Kazuki se aposenta com 32 anos, milionário, considerado o melhor professor de volêi do mundo. Kazuki considerado um sensei do volêi, atinge um estado de paz de espírito tão grande, que atinge o nirvana, vivendo por longos 250 anos."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Negar",
+                afirmacao: "Kazuki nega o pedido deles, e envia todos em direção ao sol com um saque chapado. 20 anos depois, Kazuki ainda jovem se torna o melhor atleta de volêi do mundo. Considerado pela sua técnica impecável, e jogadas quase impossíveis. Kazuki já foi colocado para jogar em um time com crianças de 2 anos contra atletas profissionais, e ainda assim, venceu. Infelizmente, aos 67 anos, Kazuki falece após se engasgar com água, pois tinha se engasgado com um amendoim, e foi beber água e se engasgou de novo. O mundo inteiro parou para enaltecer o rei do volêi, e nunca mais na história, nasceu alguém tão bom quanto o Kazuki."
             }
         ]
     },
