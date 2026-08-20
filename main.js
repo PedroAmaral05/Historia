@@ -36,7 +36,6 @@ const perguntas = [
     },
     {
         enunciado: "Observando a ineficácia do aspirador, os ladrões decidem jogar o jogo de Kazuki. Os 3 lançam um saque flutuante, unidos para derrotar Kazuki. Como ele deve reagir?",
-",
         alternativas: [
             {
                 texto: "Jogar um Saque viagem para combater o saque flutuante unido poderoso deles",
