@@ -61,15 +61,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "No pós-vida, Kazuki se encontra no vôleihalla, conhecendo grandes nomes do esporte como Giba, Serginho, Ana Moser e Sheilla Castro. E possui duas opções, se concretizar naquela terra sendo mais um entre os melhores jogadores de vôlei que já existiram, ou pode tentar desafiar os deuses do vôlei.",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Descansar juntos dos melhores do vôlei",
+                afirmacao: "Kazuki descansa em paz entre os melhores do vôlei, porém, eles o consideram a maior lenda a pisar naquele reino, e Kazuki recebe o título de 'Monge do vôlei', operando os campeonatos daquela terra. Além disso, ele é considerado para futuramente ser o sucessor de Volnus, o senhor das bolas e das redes."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Desafiar os Deuses do Vôlei",
+                afirmacao: "Kazuki enfrenta Volnus, o Senhor das bolas e das redes, porém esse Deus era muito poderoso. Em uma partida acirrada, a divindade percebe a ameaça que Kazuki representa, e o bane após sua derrota. Atualmente, Kazuki vaga como um fantasma pela terra, procurando um dia alguém que fosse melhor que ele, torcendo para que esse indivíduo seja capaz de derrotar Volnus, e removê-lo do exílio de vôleihalla",
             }
         ]
     },
