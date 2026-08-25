@@ -9,7 +9,7 @@ const perguntas = [
         enunciado: "Artur Kazuki estava voltando da escola para casa, quando um grupo de adolescentes rebeldes (que maltratavam animais em situação de rua😱 😱 😱, e o Artur odeia isso) o abordaram e anunciaram um assalto com o objetivo de roubar seu troféu de MVP da Liga de Vôlei. O que Kazuki deve fazer? ",
         alternativas: [
             {
-                texto: "ELe deve lançar um saque viagem neles!!",
+                texto: "Kazuki estava voltando da escola para casa, quando um grupo de adolescentes rebeldes o abordaram e anunciaram um assalto, exigindo seu troféu de MVP da Liga. Para se defender,le deve lançar um saque viagem neles!!",
                 afirmacao: "Artur mira o saque entre os ladrões, ricocheteando a bola entre eles até um monte de areia próximo, levantando a areia e cegando seus oponentes. "
             },
             {
