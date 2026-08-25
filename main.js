@@ -95,6 +95,19 @@ function mostraAlternativas (){
         const botaoAlternativas = document.createElement("button")
         botaoAlternativas.textContent =alternativa.texto
         botaoAlternativas.addEventListener("click", ()=> respostaSelecionada(alternativa))
+        caixaAlternativas.appendChild(botaoAlternativas)
     }
 }
+function respostaSelecionada(opcaoSelecionada){
+    const afirmacoes = opcaoSelecionada.afirmacao
+    historiaFinal += afirmacoes + ""
+    atual++
+    mostraPergunta()
+}
+function mostraResultado(){
+    caixaPerguntas.textContent = ""
+    textoResultado.textContent= ""
+    caixaAlternativas.textContent="";
+}
+
 mostraPergunta()
