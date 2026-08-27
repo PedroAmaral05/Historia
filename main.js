@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Lançar um saque viagem neles!!",
-                afirmacao: "Kazuki estava voltando da escola para casa, quando um grupo de adolescentes rebeldes o abordaram e anunciaram um assalto, exigindo seu troféu de MVP da Liga. Para se defender Artur mira um saque viagem entre os ladrões, ricocheteando a bola entre eles até um monte de areia próximo, levantando a areia e cegando seus oponentes. "
+                afirmacao: "Kazuki estava voltando da escola para casa, quando um grupo de adolescentes rebeldes o abordaram e anunciaram um assalto, exigindo seu troféu de MVP da Liga. Para se defender Artur mira um saque viagem entre os ladrões, ricocheteando a bola entre eles até um monte de areia próximo, levantando a areia e cegando seus oponentes."
             },
             {
                 texto: "Entregar o seu troféu :(",
@@ -30,7 +30,7 @@ const perguntas = [
             },
             {
                 texto: "Desviar",
-                afirmacao: "Os ladrões afirmam que não querem apenas o troféu, mas todas as suas habilidades de vôlei, utilizando um aspirador para tentar roubar a energia de volei de Kazuki. Tentando desviar, ele perde 5% de suas habilidades de vôlei, ficando mais fraco",
+                afirmacao: "Os ladrões afirmam que não querem apenas o troféu, mas todas as suas habilidades de vôlei, utilizando um aspirador para tentar roubar a energia de volei de Kazuki. Tentando desviar, ele perde 5% de suas habilidades de vôlei, ficando mais fraco.",
             }
         ]
     },
@@ -39,7 +39,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Jogar um Saque viagem para combater o saque flutuante unido poderoso deles",
-                afirmacao: "Observando a ineficácia do aspirador, os ladrões decidem jogar o jogo de Kazuki. Os 3 lançam um saque flutuante, unidos para derrotar Kazuki. Artur se defende jogando um saque viajante para combater o saque flutuante unido poderoso deles. A bola de Kazuki gira contra a deles, durante um tempo, porém, o saque de Kazuki se mostra mais poderoso e atravessa a bola dos inimigos, voando em direção deles",
+                afirmacao: "Observando a ineficácia do aspirador, os ladrões decidem jogar o jogo de Kazuki. Os 3 lançam um saque flutuante, unidos para derrotar Kazuki. Artur se defende jogando um saque viajante para combater o saque flutuante unido poderoso deles. A bola de Kazuki gira contra a deles, durante um tempo, porém, o saque de Kazuki se mostra mais poderoso e atravessa a bola dos inimigos, voando em direção deles.",
             },
             {
                 texto: "Bloquear o Saque com as mãos",
@@ -52,7 +52,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Aceitar",
-                afirmacao: "Os inimigos estão todos no chão...pedindo misericórdia e que Kazuki se torne o mestre de vôlei deles. Kazuki aceita o pedido. Após 20 anos de treinando seus pupilos, Kazuki não possuia muito tempo para si, e não obtém sucesso no mundial, porém, todos seus pupilos(que não maltratam mais animais de rua), obtiveram o primeiro lugar no mundial, os 3 sendo considerados os melhores de suas equipes independente da posição. Eles indicam Kazuki mundialmente, que funda a 'Kazukinhos Do Volêi', a escola mais renomada escola de volêi, procurada mundialmente. Kazuki se aposenta com 32 anos, milionário, considerado o melhor professor de volêi do mundo. Kazuki considerado um sensei do volêi, atinge um estado de paz de espírito tão grande, que atinge o nirvana, vivendo por longos 250 anos.",
+                afirmacao: "Os inimigos estão todos no chão...pedindo misericórdia e que Kazuki se torne o mestre de vôlei deles. Kazuki aceita o pedido. Após 20 anos treinando seus pupilos, Kazuki não possuia muito tempo para si, e não obtém sucesso no mundial, porém, todos seus pupilos(que não maltratam mais animais de rua), obtiveram o primeiro lugar no mundial, os 3 sendo considerados os melhores de suas equipes independente da posição. Eles indicam Kazuki mundialmente, que funda a 'Kazukinhos Do Volêi', a escola mais renomada escola de volêi, procurada mundialmente. Kazuki se aposenta com 32 anos, milionário, considerado o melhor professor de volêi do mundo. Kazuki considerado um sensei do volêi, atinge um estado de paz de espírito tão grande, que atinge o nirvana, vivendo por longos 250 anos.",
             },
             {
                 texto: "Negar",
@@ -69,7 +69,7 @@ const perguntas = [
             },
             {
                 texto: "Desafiar os Deuses do Vôlei",
-                afirmacao: "No pós-vida, Kazuki se encontra no vôleihalla, conhecendo grandes nomes do esporte como Giba, Serginho, Ana Moser e Sheilla Castro. E possui duas opções, se concretizar naquela terra sendo mais um entre os melhores jogadores de vôlei que já existiram, ou pode tentar desafiar os deuses do vôlei. Kazuki decide desafiar os deuses do vôlei, enfrentando Volnus, o Senhor das bolas e das redes, porém esse Deus era muito poderoso. Em uma partida acirrada, a divindade percebe a ameaça que Kazuki representa, e o bane após sua derrota. Atualmente, Kazuki vaga como um fantasma pela terra, procurando um dia alguém que fosse melhor que ele, torcendo para que esse indivíduo seja capaz de derrotar Volnus, e removê-lo do exílio de vôleihalla",
+                afirmacao: "No pós-vida, Kazuki se encontra no vôleihalla, conhecendo grandes nomes do esporte como Giba, Serginho, Ana Moser e Sheilla Castro. E possui duas opções, se concretizar naquela terra sendo mais um entre os melhores jogadores de vôlei que já existiram, ou pode tentar desafiar os deuses do vôlei. Kazuki decide desafiar os deuses do vôlei, enfrentando Volnus, o Senhor das bolas e das redes, porém esse Deus era muito poderoso. Em uma partida acirrada, a divindade percebe a ameaça que Kazuki representa, e o bane após sua derrota. Atualmente, Kazuki vaga como um fantasma pela terra, procurando um dia alguém que fosse melhor que ele, torcendo para que esse indivíduo seja capaz de derrotar Volnus, e removê-lo do exílio de vôleihalla.",
             }
         ]
     },
