@@ -9,7 +9,7 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--cor-texto);
     display: flex;
-    align-items: center;
+    align-items: justify;
     justify-content: center;
     min-height: 100vh;
 }
