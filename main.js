@@ -11,7 +11,7 @@ const perguntas = [
             {
                 texto: "Lançar um saque viagem neles!!",
                 afirmacao:[ "Kazuki estava voltando da escola para casa, quando um grupo de adolescentes rebeldes o abordaram e anunciaram um assalto, exigindo seu troféu de MVP da Liga. Para se defender Artur mira um saque viagem entre os ladrões, ricocheteando a bola entre eles até um monte de areia próximo, levantando a areia e cegando seus oponentes.",
-                    "texto2"
+                    "Kazuki estava voltando da escola para casa, quando um grupo de adolescentes rebeldes o abordaram e anunciaram um assalto, exigindo seu troféu de MVP da Liga. Para se defender Artur mira um saque viagem entre os ladrões, mas erra seus oponentes. Eles se aproximam para pegar seu troféu, mas por sorte, a bola que ele havia errado ricocheteia em um poste e acerta os bandidos"
                 ]
             },
             {
