@@ -49,7 +49,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "A poeira levanta... os inimigos estão todos no chão, sem conseguir se mover, Kazuki se agarra ao seu troféu quase perdido. Os inimigos pedem misericórdia, e pedem para Kazuki ser o mestre deles."
+        enunciado: "A poeira levanta... os inimigos estão todos no chão, sem conseguir se mover, Kazuki se agarra ao seu troféu quase perdido. Os inimigos pedem misericórdia, e pedem para Kazuki ser o mestre deles.",
         alternativas:[
             {
                 texto: "Aceitar",
