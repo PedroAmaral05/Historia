@@ -1,10 +1,4 @@
-const caixaPrincipal = document.querySelector(".caixa-principal")
-const caixaPerguntas = document.querySelector(".caixa-perguntas")
-const caixaAlternativas = document.querySelector(".caixa-alternativas")
-const caixaResultado = document.querySelector(".caixa-resultado")
-const textoResultado = document.querySelector(".texto-resultado")
-
-const perguntas = [
+export const perguntas = [
     {
         enunciado: "Artur Kazuki estava voltando da escola para casa, quando um grupo de adolescentes rebeldes (que maltratavam animais em situação de rua😱 😱 😱, e o Artur odeia isso) o abordaram e anunciaram um assalto com o objetivo de roubar seu troféu de MVP da Liga de Vôlei. O que Kazuki deve fazer? ",
         alternativas: [
@@ -85,40 +79,3 @@ const perguntas = [
         ]
     },
 ];
-
-let atual= 0
-let perguntaAtual;
-let historiaFinal = ""
-
-function mostraPergunta(){
-    if(atual >= perguntas.length){
-        mostraResultado()
-        return
-    }
-    perguntaAtual = perguntas [atual]
-    caixaPerguntas.textContent =perguntaAtual.enunciado
-    caixaAlternativas.textContent = "";
-    mostraAlternativas()
-}
-
-function mostraAlternativas (){
-    for (const alternativa of perguntaAtual.alternativas){
-        const botaoAlternativas = document.createElement("button")
-        botaoAlternativas.textContent =alternativa.texto
-        botaoAlternativas.addEventListener("click", ()=> respostaSelecionada(alternativa))
-        caixaAlternativas.appendChild(botaoAlternativas)
-    }
-}
-function respostaSelecionada(opcaoSelecionada){
-    const afirmacoes = opcaoSelecionada.afirmacao
-    historiaFinal += afirmacoes + ""
-    atual++
-    mostraPergunta()
-}
-function mostraResultado(){
-    caixaPerguntas.textContent = ""
-    textoResultado.textContent= historiaFinal
-    caixaAlternativas.textContent="";
-}
-
-mostraPergunta()
