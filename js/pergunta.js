@@ -50,7 +50,7 @@ export const perguntas = [
     },
     {
         enunciado: "A poeira levanta... os inimigos estão todos no chão, sem conseguir se mover, Kazuki se agarra ao seu troféu quase perdido. Os inimigos pedem misericórdia, e pedem para Kazuki ser o mestre deles."
-        alternativas: [
+        alternativas:[
             {
                 texto: "Aceitar",
                 afirmacao:[ "Os inimigos estão todos no chão...pedindo misericórdia e que Kazuki se torne o mestre de vôlei deles. Kazuki aceita o pedido. Após 20 anos treinando seus pupilos, Kazuki não possuia muito tempo para si, e não obtém sucesso no mundial, porém, todos seus pupilos(que não maltratam mais animais de rua), obtiveram o primeiro lugar no mundial, os 3 sendo considerados os melhores de suas equipes independente da posição. Eles indicam Kazuki mundialmente, que funda a 'Kazukinhos Do Volêi', a escola mais renomada escola de volêi, procurada mundialmente. Kazuki se aposenta com 32 anos, milionário, considerado o melhor professor de volêi do mundo. Kazuki considerado um sensei do volêi, atinge um estado de paz de espírito tão grande, que atinge o nirvana, vivendo por longos 250 anos.",
