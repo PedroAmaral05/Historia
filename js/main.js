@@ -16,7 +16,7 @@ botaoIniciar.addEventListener("click" , iniciajogo)
 
 function iniciajogo(){
     atual = 0;
-    historiafinal = ""
+    historiaFinal = ""
     telainicial.style.display = "none"
     caixaPerguntas.classList.remove("mostrar")
     CaixaAlternativas.classlist.remove("mostrar")
