@@ -19,7 +19,7 @@ function iniciajogo(){
     historiaFinal = ""
     telaInicial.style.display = "none"
     caixaPerguntas.classList.remove("mostrar")
-    caixaAlternativas.classlist.remove("mostrar")
+    caixaAlternativas.classList.remove("mostrar")
     caixaResultado.classList.remove("mostrar")
     mostraPergunta ()
 }
